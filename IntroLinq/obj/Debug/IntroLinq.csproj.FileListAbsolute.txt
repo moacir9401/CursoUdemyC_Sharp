@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\bin\Debug\IntroLinq.exe.config
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\bin\Debug\IntroLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\bin\Debug\IntroLinq.pdb
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\obj\Debug\IntroLinq.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\obj\Debug\IntroLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\IntroLinq\obj\Debug\IntroLinq.pdb

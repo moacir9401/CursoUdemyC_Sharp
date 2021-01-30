@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAction", "DelegateA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemploFunc", "exemploFunc\exemploFunc.csproj", "{3E262511-091B-4681-9C8E-7636F5A4FF86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroLinq", "IntroLinq\IntroLinq.csproj", "{6364CFC7-A80B-4F4D-AA51-09C3AD53DCBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{3E262511-091B-4681-9C8E-7636F5A4FF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E262511-091B-4681-9C8E-7636F5A4FF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E262511-091B-4681-9C8E-7636F5A4FF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6364CFC7-A80B-4F4D-AA51-09C3AD53DCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6364CFC7-A80B-4F4D-AA51-09C3AD53DCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6364CFC7-A80B-4F4D-AA51-09C3AD53DCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6364CFC7-A80B-4F4D-AA51-09C3AD53DCBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
