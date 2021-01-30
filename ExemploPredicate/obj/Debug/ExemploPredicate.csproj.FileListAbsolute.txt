@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\bin\Debug\ExemploPredicate.exe.config
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\bin\Debug\ExemploPredicate.exe
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\bin\Debug\ExemploPredicate.pdb
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\obj\Debug\ExemploPredicate.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\obj\Debug\ExemploPredicate.exe
+C:\Users\eli\source\repos\cursoUdemy\ExemploPredicate\obj\Debug\ExemploPredicate.pdb
