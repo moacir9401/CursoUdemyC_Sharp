@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\bin\Debug\LinqNotacaoSql.exe.config
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\bin\Debug\LinqNotacaoSql.exe
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\bin\Debug\LinqNotacaoSql.pdb
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\obj\Debug\LinqNotacaoSql.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\obj\Debug\LinqNotacaoSql.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\obj\Debug\LinqNotacaoSql.exe
+C:\Users\eli\source\repos\cursoUdemy\LinqNotacaoSql\obj\Debug\LinqNotacaoSql.pdb
