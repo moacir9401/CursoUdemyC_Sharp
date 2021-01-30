@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\bin\Debug\exemploFunc.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\bin\Debug\exemploFunc.exe
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\bin\Debug\exemploFunc.pdb
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\obj\Debug\exemploFunc.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\obj\Debug\exemploFunc.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\obj\Debug\exemploFunc.exe
+C:\Users\eli\source\repos\cursoUdemy\exemploFunc\obj\Debug\exemploFunc.pdb
