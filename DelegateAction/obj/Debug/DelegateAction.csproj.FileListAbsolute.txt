@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\bin\Debug\DelegateAction.exe.config
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\bin\Debug\DelegateAction.exe
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\bin\Debug\DelegateAction.pdb
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\obj\Debug\DelegateAction.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\obj\Debug\DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\obj\Debug\DelegateAction.exe
+C:\Users\eli\source\repos\cursoUdemy\DelegateAction\obj\Debug\DelegateAction.pdb
