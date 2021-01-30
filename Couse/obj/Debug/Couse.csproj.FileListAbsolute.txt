@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\Couse\bin\Debug\Couse.exe.config
+C:\Users\eli\source\repos\cursoUdemy\Couse\bin\Debug\Couse.exe
+C:\Users\eli\source\repos\cursoUdemy\Couse\bin\Debug\Couse.pdb
+C:\Users\eli\source\repos\cursoUdemy\Couse\obj\Debug\Couse.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\Couse\obj\Debug\Couse.exe
+C:\Users\eli\source\repos\cursoUdemy\Couse\obj\Debug\Couse.pdb

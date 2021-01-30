@@ -1,0 +1,13 @@
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.exe.config
+C:\Users\eli\source\repos\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.exe
+C:\Users\eli\source\repos\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.pdb
+C:\Users\eli\source\repos\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.exe
+C:\Users\eli\source\repos\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.pdb
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.exe.config
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.exe
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\bin\Debug\POO_ABSTRACT.pdb
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.exe
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.pdb
+C:\Users\eli\source\repos\cursoUdemy\POO_ABSTRACT\obj\Debug\POO_ABSTRACT.csprojAssemblyReference.cache

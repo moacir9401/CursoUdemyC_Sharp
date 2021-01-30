@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\Comparation\bin\Debug\Comparation.exe.config
+C:\Users\eli\source\repos\cursoUdemy\Comparation\bin\Debug\Comparation.exe
+C:\Users\eli\source\repos\cursoUdemy\Comparation\bin\Debug\Comparation.pdb
+C:\Users\eli\source\repos\cursoUdemy\Comparation\obj\Debug\Comparation.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\Comparation\obj\Debug\Comparation.exe
+C:\Users\eli\source\repos\cursoUdemy\Comparation\obj\Debug\Comparation.pdb
+C:\Users\eli\source\repos\cursoUdemy\Comparation\obj\Debug\Comparation.csprojAssemblyReference.cache

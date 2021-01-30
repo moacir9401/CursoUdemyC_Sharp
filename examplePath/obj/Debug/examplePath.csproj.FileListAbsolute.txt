@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\examplePath\bin\Debug\examplePath.exe.config
+C:\Users\eli\source\repos\cursoUdemy\examplePath\bin\Debug\examplePath.exe
+C:\Users\eli\source\repos\cursoUdemy\examplePath\bin\Debug\examplePath.pdb
+C:\Users\eli\source\repos\cursoUdemy\examplePath\obj\Debug\examplePath.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\examplePath\obj\Debug\examplePath.exe
+C:\Users\eli\source\repos\cursoUdemy\examplePath\obj\Debug\examplePath.pdb

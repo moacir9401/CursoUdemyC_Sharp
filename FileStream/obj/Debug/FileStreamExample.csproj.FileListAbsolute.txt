@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\FileStream\bin\Debug\FileStream.exe.config
+C:\Users\eli\source\repos\cursoUdemy\FileStream\bin\Debug\FileStream.exe
+C:\Users\eli\source\repos\cursoUdemy\FileStream\bin\Debug\FileStream.pdb
+C:\Users\eli\source\repos\cursoUdemy\FileStream\obj\Debug\FileStreamExample.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\FileStream\obj\Debug\FileStream.exe
+C:\Users\eli\source\repos\cursoUdemy\FileStream\obj\Debug\FileStream.pdb

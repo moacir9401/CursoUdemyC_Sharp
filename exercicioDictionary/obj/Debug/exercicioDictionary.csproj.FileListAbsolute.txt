@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\bin\Debug\exercicioDictionary.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\bin\Debug\exercicioDictionary.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\bin\Debug\exercicioDictionary.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\obj\Debug\exercicioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\obj\Debug\exercicioDictionary.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\obj\Debug\exercicioDictionary.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioDictionary\obj\Debug\exercicioDictionary.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\generics\bin\Debug\generics.exe.config
+C:\Users\eli\source\repos\cursoUdemy\generics\bin\Debug\generics.exe
+C:\Users\eli\source\repos\cursoUdemy\generics\bin\Debug\generics.pdb
+C:\Users\eli\source\repos\cursoUdemy\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\generics\obj\Debug\generics.exe
+C:\Users\eli\source\repos\cursoUdemy\generics\obj\Debug\generics.pdb

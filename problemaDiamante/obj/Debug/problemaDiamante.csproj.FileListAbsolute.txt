@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\bin\Debug\problemaDiamante.exe.config
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\bin\Debug\problemaDiamante.exe
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\bin\Debug\problemaDiamante.pdb
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\obj\Debug\problemaDiamante.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\obj\Debug\problemaDiamante.exe
+C:\Users\eli\source\repos\cursoUdemy\problemaDiamante\obj\Debug\problemaDiamante.pdb

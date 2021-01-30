@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\eli\source\repos\cursoUdemy\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

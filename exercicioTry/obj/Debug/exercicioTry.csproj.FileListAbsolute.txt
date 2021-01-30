@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\obj\Debug\exercicioTry.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\bin\Debug\exercicioTry.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\bin\Debug\exercicioTry.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\bin\Debug\exercicioTry.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\obj\Debug\exercicioTry.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioTry\obj\Debug\exercicioTry.pdb

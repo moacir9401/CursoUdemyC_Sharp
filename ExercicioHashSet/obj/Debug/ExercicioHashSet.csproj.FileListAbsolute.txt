@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\obj\Debug\ExercicioHashSet.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\bin\Debug\ExercicioHashSet.exe.config
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\bin\Debug\ExercicioHashSet.exe
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\bin\Debug\ExercicioHashSet.pdb
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\obj\Debug\ExercicioHashSet.exe
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\obj\Debug\ExercicioHashSet.pdb
+C:\Users\eli\source\repos\cursoUdemy\ExercicioHashSet\obj\Debug\ExercicioHashSet.csprojAssemblyReference.cache

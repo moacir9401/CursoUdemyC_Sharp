@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\bin\Debug\CompareBle.exe.config
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\bin\Debug\CompareBle.exe
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\bin\Debug\CompareBle.pdb
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\obj\Debug\CompareBle.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\obj\Debug\CompareBle.exe
+C:\Users\eli\source\repos\cursoUdemy\CompareBle\obj\Debug\CompareBle.pdb

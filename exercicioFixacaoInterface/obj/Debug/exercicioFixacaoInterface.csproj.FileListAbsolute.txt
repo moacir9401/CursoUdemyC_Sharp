@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\obj\Debug\exercicioFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\bin\Debug\exercicioFixacaoInterface.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\bin\Debug\exercicioFixacaoInterface.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\bin\Debug\exercicioFixacaoInterface.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\obj\Debug\exercicioFixacaoInterface.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoInterface\obj\Debug\exercicioFixacaoInterface.pdb

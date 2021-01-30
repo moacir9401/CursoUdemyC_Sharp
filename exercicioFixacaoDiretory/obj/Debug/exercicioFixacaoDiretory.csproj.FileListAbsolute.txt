@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\bin\Debug\exercicioFixacaoDiretory.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\bin\Debug\exercicioFixacaoDiretory.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\bin\Debug\exercicioFixacaoDiretory.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\obj\Debug\exercicioFixacaoDiretory.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\obj\Debug\exercicioFixacaoDiretory.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacaoDiretory\obj\Debug\exercicioFixacaoDiretory.pdb

@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\obj\Debug\exercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\bin\Debug\exercicioFixacao.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\bin\Debug\exercicioFixacao.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\bin\Debug\exercicioFixacao.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\obj\Debug\exercicioFixacao.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioFixacao\obj\Debug\exercicioFixacao.pdb

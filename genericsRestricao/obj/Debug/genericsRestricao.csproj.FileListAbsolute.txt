@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\bin\Debug\genericsRestricao.exe.config
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\bin\Debug\genericsRestricao.exe
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\bin\Debug\genericsRestricao.pdb
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\obj\Debug\genericsRestricao.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\obj\Debug\genericsRestricao.exe
+C:\Users\eli\source\repos\cursoUdemy\genericsRestricao\obj\Debug\genericsRestricao.pdb

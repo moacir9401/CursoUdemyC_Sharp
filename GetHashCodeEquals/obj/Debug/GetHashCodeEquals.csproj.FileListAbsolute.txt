@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\bin\Debug\GetHashCodeEquals.exe.config
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\bin\Debug\GetHashCodeEquals.exe
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\bin\Debug\GetHashCodeEquals.pdb
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\obj\Debug\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\obj\Debug\GetHashCodeEquals.exe
+C:\Users\eli\source\repos\cursoUdemy\GetHashCodeEquals\obj\Debug\GetHashCodeEquals.pdb

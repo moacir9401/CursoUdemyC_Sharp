@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\bin\Debug\HenracaInterface.exe.config
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\bin\Debug\HenracaInterface.exe
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\bin\Debug\HenracaInterface.pdb
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\obj\Debug\HenracaInterface.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\obj\Debug\HenracaInterface.exe
+C:\Users\eli\source\repos\cursoUdemy\HenracaInterface\obj\Debug\HenracaInterface.pdb

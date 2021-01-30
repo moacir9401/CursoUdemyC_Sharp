@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\eli\source\repos\cursoUdemy\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

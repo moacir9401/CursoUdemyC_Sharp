@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\bin\Debug\projetoLocadora.exe.config
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\bin\Debug\projetoLocadora.exe
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\bin\Debug\projetoLocadora.pdb
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\obj\Debug\projetoLocadora.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\obj\Debug\projetoLocadora.exe
+C:\Users\eli\source\repos\cursoUdemy\projetoLocadora\obj\Debug\projetoLocadora.pdb

@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\bin\Debug\IguadadeHast.exe.config
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\bin\Debug\IguadadeHast.exe
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\bin\Debug\IguadadeHast.pdb
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\obj\Debug\IguadadeHast.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\obj\Debug\IguadadeHast.exe
+C:\Users\eli\source\repos\cursoUdemy\IguadadeHast\obj\Debug\IguadadeHast.pdb

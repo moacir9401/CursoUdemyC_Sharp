@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\bin\Debug\HastSetSortSet.exe.config
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\bin\Debug\HastSetSortSet.exe
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\bin\Debug\HastSetSortSet.pdb
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\obj\Debug\SortSet.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\obj\Debug\HastSetSortSet.exe
+C:\Users\eli\source\repos\cursoUdemy\HastSetSortSet\obj\Debug\HastSetSortSet.pdb

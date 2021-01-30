@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\obj\Debug\exercicio1.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicio1\obj\Debug\exercicio1.pdb

@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\bin\Debug\exemploDictionary.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\bin\Debug\exemploDictionary.exe
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\bin\Debug\exemploDictionary.pdb
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\obj\Debug\exemploDictionary.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\obj\Debug\exemploDictionary.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\obj\Debug\exemploDictionary.exe
+C:\Users\eli\source\repos\cursoUdemy\exemploDictionary\obj\Debug\exemploDictionary.pdb
