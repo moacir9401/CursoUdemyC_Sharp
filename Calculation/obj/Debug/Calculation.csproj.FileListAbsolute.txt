@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\eli\source\repos\cursoUdemy\Calculation\bin\Debug\Calculation.exe
+C:\Users\eli\source\repos\cursoUdemy\Calculation\bin\Debug\Calculation.pdb
+C:\Users\eli\source\repos\cursoUdemy\Calculation\obj\Debug\Calculation.exe
+C:\Users\eli\source\repos\cursoUdemy\Calculation\obj\Debug\Calculation.pdb

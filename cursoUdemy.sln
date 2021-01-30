@@ -59,7 +59,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicioDictionary", "exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{D831E93C-A365-491C-9E81-31A5C7B7DEAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparation", "Comparation\Comparation.csproj", "{B69BA45C-03C3-440D-9EC9-53B8609DB274}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleComparison", "Comparation\ExampleComparison.csproj", "{B69BA45C-03C3-440D-9EC9-53B8609DB274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation", "Calculation\Calculation.csproj", "{D89FA620-F2B6-4984-BDD7-5F48BF4B59B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastDelegates", "MultiCastDelegates\MultiCastDelegates.csproj", "{D83F1304-20A8-4800-9354-32E97F5A47AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{B69BA45C-03C3-440D-9EC9-53B8609DB274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B69BA45C-03C3-440D-9EC9-53B8609DB274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B69BA45C-03C3-440D-9EC9-53B8609DB274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89FA620-F2B6-4984-BDD7-5F48BF4B59B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89FA620-F2B6-4984-BDD7-5F48BF4B59B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89FA620-F2B6-4984-BDD7-5F48BF4B59B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89FA620-F2B6-4984-BDD7-5F48BF4B59B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83F1304-20A8-4800-9354-32E97F5A47AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83F1304-20A8-4800-9354-32E97F5A47AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83F1304-20A8-4800-9354-32E97F5A47AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83F1304-20A8-4800-9354-32E97F5A47AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

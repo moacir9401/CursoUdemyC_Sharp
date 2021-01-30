@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using Comparation.Entites;
 
-namespace Comparation
+namespace ExampleComparison
 {
     class Program
     {
@@ -15,6 +15,7 @@ namespace Comparation
             list.Add(new Product("Notebook",1200.00));
             list.Add(new Product("Tablet",450.00));
 
+             
             list.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper()));
 
             foreach (var p in list)

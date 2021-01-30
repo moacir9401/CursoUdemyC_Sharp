@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\bin\Debug\MultiCastDelegates.exe.config
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\bin\Debug\MultiCastDelegates.exe
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\bin\Debug\MultiCastDelegates.pdb
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\obj\Debug\MultiCastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\obj\Debug\MultiCastDelegates.exe
+C:\Users\eli\source\repos\cursoUdemy\MultiCastDelegates\obj\Debug\MultiCastDelegates.pdb
