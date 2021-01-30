@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\bin\Debug\exercicioLinq.exe.config
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\bin\Debug\exercicioLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\bin\Debug\exercicioLinq.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\obj\Debug\exercicioLinq.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\obj\Debug\exercicioLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\obj\Debug\exercicioLinq.pdb
+C:\Users\eli\source\repos\cursoUdemy\exercicioLinq\obj\Debug\exercicioLinq.csprojAssemblyReference.cache

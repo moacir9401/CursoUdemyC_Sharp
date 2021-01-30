@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqLambda", "linqLambda\li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqNotacaoSql", "LinqNotacaoSql\LinqNotacaoSql.csproj", "{1C251666-DBF9-4008-95DE-708501DA9DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicioLinq", "exercicioLinq\exercicioLinq.csproj", "{1A59395B-EEC7-43E3-A225-E0C999CD2E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacaoLinq", "ExercicioFixacaoLinq\ExercicioFixacaoLinq.csproj", "{9846EA77-7071-4EAC-8631-3161EACF5642}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{1C251666-DBF9-4008-95DE-708501DA9DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C251666-DBF9-4008-95DE-708501DA9DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C251666-DBF9-4008-95DE-708501DA9DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A59395B-EEC7-43E3-A225-E0C999CD2E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A59395B-EEC7-43E3-A225-E0C999CD2E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A59395B-EEC7-43E3-A225-E0C999CD2E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A59395B-EEC7-43E3-A225-E0C999CD2E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9846EA77-7071-4EAC-8631-3161EACF5642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9846EA77-7071-4EAC-8631-3161EACF5642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9846EA77-7071-4EAC-8631-3161EACF5642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9846EA77-7071-4EAC-8631-3161EACF5642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

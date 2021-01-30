@@ -1,0 +1,6 @@
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\bin\Debug\ExercicioFixacaoLinq.exe.config
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\bin\Debug\ExercicioFixacaoLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\bin\Debug\ExercicioFixacaoLinq.pdb
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\obj\Debug\ExercicioFixacaoLinq.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\obj\Debug\ExercicioFixacaoLinq.exe
+C:\Users\eli\source\repos\cursoUdemy\ExercicioFixacaoLinq\obj\Debug\ExercicioFixacaoLinq.pdb
