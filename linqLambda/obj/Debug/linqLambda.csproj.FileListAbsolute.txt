@@ -1,0 +1,7 @@
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\bin\Debug\linqLambda.exe.config
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\bin\Debug\linqLambda.exe
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\bin\Debug\linqLambda.pdb
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\obj\Debug\linqLambda.csprojAssemblyReference.cache
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\obj\Debug\linqLambda.csproj.CoreCompileInputs.cache
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\obj\Debug\linqLambda.exe
+C:\Users\eli\source\repos\cursoUdemy\linqLambda\obj\Debug\linqLambda.pdb
